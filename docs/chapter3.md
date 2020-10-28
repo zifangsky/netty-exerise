@@ -23,7 +23,7 @@
 
 EventLoop定义了Netty的核心抽象，**用于处理连接的生命周期中所发生的事件**。目前，下图在高层次上说明了Channel、EventLoop、Thread以及EventLoopGroup之间的关系。
 
-![Channel、EventLoop和EventLoopGroup](chapter3.assets/image-20201012135744793.png)
+![Channel、EventLoop和EventLoopGroup](assets/image-20201012135744793.png)
 
 这些关系是：
 
